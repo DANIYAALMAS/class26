@@ -1,2 +1,2 @@
-# class26
-boats , array data structure, remove body when collide
+# PiratesInvasionStage-3.5
+boilerplate for 26
